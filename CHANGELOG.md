@@ -1,5 +1,32 @@
 # Changelog
 
+## v1.26.0
+
+[compare changes](https://github.com/catppuccin/vscode-icons/compare/v1.24.0...v1.26.0)
+
+### 🚀 Enhancements
+
+- Knip icon ([#584](https://github.com/catppuccin/vscode-icons/pull/584))
+- **associations:** `gd.uid` to `godot-assets` ([#597](https://github.com/catppuccin/vscode-icons/pull/597))
+- **associations:** `config.dart` & `gr.dart` to `dart-generated` ([#588](https://github.com/catppuccin/vscode-icons/pull/588))
+
+### 🩹 Fixes
+
+- **associations:** `prisma` -> `prisma.config.*` ([#565](https://github.com/catppuccin/vscode-icons/pull/565))
+- **icons:** `.psd` files using generic `image` icon ([#599](https://github.com/catppuccin/vscode-icons/pull/599))
+
+### 🏡 Chore
+
+- Re-generate previews ([#590](https://github.com/catppuccin/vscode-icons/pull/590))
+
+### ❤️ Contributors
+
+- Hammy ([@sgoudham](https://github.com/sgoudham))
+- Artyom Zhukov ([@06ED](https://github.com/06ED))
+- Adrian Pacala <adrian@pacala.uk>
+- Praz <hi@praz.dev>
+- Mkvlrn ([@mkvlrn](https://github.com/mkvlrn))
+
 ## v1.24.0
 
 [compare changes](https://github.com/catppuccin/vscode-icons/compare/v1.23.0...v1.24.0)
